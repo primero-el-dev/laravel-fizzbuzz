@@ -1,3 +1,6 @@
 # laravel-fizzbuzz
 
-Program uruchamia się komendą `php artisan fizzbuzz`.
+## Uruchomienie
+- Sklonować repozytorium
+- Wykonać `composer install`
+- Wpisać komendę `php artisan fizzbuzz`.
